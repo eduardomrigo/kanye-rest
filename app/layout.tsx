@@ -16,7 +16,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Ye Quotes",
-  description: "Powered by KanyeREST",
+  description: "Powered by Kanye.REST",
 };
 
 export default function RootLayout({
