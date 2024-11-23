@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   generator: 'Next.js',
   title: 'Kanye Quotes',
   description: 'Powered by Kanye.REST',
-  applicationName: 'NASA Dashboard',
+  applicationName: 'Kanye Quotes',
   referrer: 'origin-when-cross-origin',
   keywords: ['Next.js', 'React', 'JavaScript', 'typescript', 'nextjs', 'frontend', 'developer', 'front end', 'programmer'],
   authors: [{ name: 'Eduardo Rigo', url: 'https://eduardev.com' }],
