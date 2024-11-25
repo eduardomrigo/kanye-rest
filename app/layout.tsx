@@ -36,12 +36,12 @@ export const metadata: Metadata = {
     siteName: 'Kanye Quotes',
     images: [
       {
-        url: 'https://www.kanye.eduardev.com/images/bg.png',
+        url: 'https://kanye.eduardev.com/images/bg.png',
         width: 800,
         height: 600,
       },
       {
-        url: 'https://www.kanye.eduardev.com/images/bg-g.png',
+        url: 'https://kanye.eduardev.com/images/bg-g.png',
         width: 1800,
         height: 1600,
       },
